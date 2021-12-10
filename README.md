@@ -1,9 +1,10 @@
-# Flask Web App Tutorial
+# MeteoMapper
 
 ## Setup & Installtion
 
 Make sure you have the latest version of Python installed.
 
+Example:
 ```bash
 git clone <repo-url>
 ```
